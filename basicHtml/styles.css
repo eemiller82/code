@@ -1,0 +1,32 @@
+h1, h4 {
+    color:bisque;
+    border: 2px dotted black;
+    margin: 2rem;
+    padding: 2rem;
+    text-align: initial
+}
+p {
+    color: red;
+    width: 500px;
+    border: 3px ridge black;
+    margin: 2rem;
+    padding: 2rem;
+    text-align: inherit;
+    text-transform: uppercase;
+    font-style: italic;
+  }
+
+  html {
+    background-color: blue;
+}
+
+img {
+  margin: 2rem;
+  padding: 2rem;
+}
+
+#ingredients {color:blueviolet;
+text-decoration: underline;}
+
+#instructions {color:aquamarine; 
+text-decoration: underline;}
