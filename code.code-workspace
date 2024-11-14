@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "code",
+			"path": "../../../../../Documents/TXST/ENG 5314 - Coding/code"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "code"
+	}
+}
